@@ -1,0 +1,10 @@
+{
+    "name": "sample-node-mongo-api",
+    "main": "serve.js",
+    "dependencies": {
+        "body-parser": "1.18.2",
+        "express": "~4.0.0",
+        "mongodb": "^2.2.34",
+        "mongoose": "~5.0.1"
+    }
+}
